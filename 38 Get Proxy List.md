@@ -1,4 +1,4 @@
-# Get Proxy List
+# 38 Get Proxy List
 
 ---
 title: "ixBrowser Local API"
